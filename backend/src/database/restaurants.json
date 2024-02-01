@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Gastronomia Paulista",
+    "address": "Rua A, 123",
+    "phone": "+55 11 1111-1111",
+    "cuisineType": "Brasileira",
+    "rating": 4.2,
+    "openingHours": "Seg-Sex: 11:30 - 21:30, Sáb-Dom: 12:00 - 20:00",
+    "hasDelivery": true
+  },
+  {
+    "name": "Pasta Italia",
+    "address": "Avenida B, 456",
+    "phone": "+55 11 2222-2222",
+    "cuisineType": "Italiana",
+    "rating": 4.8,
+    "openingHours": "Seg-Sex: 12:00 - 22:00, Sáb-Dom: 11:30 - 21:30",
+    "hasDelivery": false
+  },
+  {
+    "name": "Sakura Sushi",
+    "address": "Rua C, 789",
+    "phone": "+55 11 3333-3333",
+    "cuisineType": "Japonesa",
+    "rating": 4.5,
+    "openingHours": "Seg-Sex: 11:00 - 23:00, Sáb-Dom: 12:30 - 20:30",
+    "hasDelivery": true
+  },
+  {
+    "name": "MexiCantina",
+    "address": "Avenida D, 1011",
+    "phone": "+55 11 4444-4444",
+    "cuisineType": "Mexicana",
+    "rating": 4.0,
+    "openingHours": "Seg-Sex: 12:30 - 21:30, Sáb-Dom: 11:00 - 22:00",
+    "hasDelivery": false
+  },
+  {
+    "name": "Great Wall",
+    "address": "Rua E, 1213",
+    "phone": "+55 11 5555-5555",
+    "cuisineType": "Chinesa",
+    "rating": 4.6,
+    "openingHours": "Seg-Sex: 11:00 - 22:00, Sáb-Dom: 12:00 - 20:30",
+    "hasDelivery": true
+  },
+  {
+    "name": "Le Petit Bistro",
+    "address": "Avenida F, 1415",
+    "phone": "+55 11 6666-6666",
+    "cuisineType": "Francesa",
+    "rating": 4.3,
+    "openingHours": "Seg-Sex: 12:00 - 20:30, Sáb-Dom: 11:30 - 21:00",
+    "hasDelivery": false
+  },
+  {
+    "name": "Spice of India",
+    "address": "Rua G, 1617",
+    "phone": "+55 11 7777-7777",
+    "cuisineType": "Indiana",
+    "rating": 4.7,
+    "openingHours": "Seg-Sex: 11:30 - 21:00, Sáb-Dom: 12:00 - 22:00",
+    "hasDelivery": true
+  },
+  {
+    "name": "GreenVibe",
+    "address": "Avenida H, 1819",
+    "phone": "+55 11 8888-8888",
+    "cuisineType": "Vegana",
+    "rating": 4.4,
+    "openingHours": "Seg-Sex: 12:00 - 20:30, Sáb-Dom: 11:00 - 21:30",
+    "hasDelivery": false
+  },
+  {
+    "name": "Tapas Españolas",
+    "address": "Rua I, 2021",
+    "phone": "+55 11 9999-9999",
+    "cuisineType": "Espanhola",
+    "rating": 4.9,
+    "openingHours": "Seg-Sex: 11:00 - 21:30, Sáb-Dom: 12:00 - 22:00",
+    "hasDelivery": true
+  },
+  {
+    "name": "Arabian Nights",
+    "address": "Avenida J, 2223",
+    "phone": "+55 11 1010-1010",
+    "cuisineType": "Árabe",
+    "rating": 4.1,
+    "openingHours": "Seg-Sex: 12:00 - 22:00, Sáb-Dom: 11:30 - 21:30",
+    "hasDelivery": false
+  },
+  {
+    "name": "Thai Delight",
+    "address": "Rua K, 2425",
+    "phone": "+55 11 1111-1212",
+    "cuisineType": "Tailandesa",
+    "rating": 4.5,
+    "openingHours": "Seg-Sex: 11:30 - 21:30, Sáb-Dom: 12:00 - 20:00",
+    "hasDelivery": true
+  },
+  {
+    "name": "Bavarian Feast",
+    "address": "Avenida L, 2627",
+    "phone": "+55 11 1313-1414",
+    "cuisineType": "Alemã",
+    "rating": 4.8,
+    "openingHours": "Seg-Sex: 12:00 - 22:00, Sáb-Dom: 11:30 - 21:30",
+    "hasDelivery": false
+  },
+  {
+    "name": "Seoul Garden",
+    "address": "Rua M, 2829",
+    "phone": "+55 11 1515-1616",
+    "cuisineType": "Coreana",
+    "rating": 4.5,
+    "openingHours": "Seg-Sex: 11:00 - 23:00, Sáb-Dom: 12:30 - 20:30",
+    "hasDelivery": true
+  },
+  {
+    "name": "Peruvian Flavors",
+    "address": "Avenida N, 3031",
+    "phone": "+55 11 1717-1818",
+    "cuisineType": "Peruana",
+    "rating": 4.0,
+    "openingHours": "Seg-Sex: 12:30 - 21:30, Sáb-Dom: 11:00 - 22:00",
+    "hasDelivery": false
+  },
+  {
+    "name": "Lisboa Lounge",
+    "address": "Rua O, 3233",
+    "phone": "+55 11 1919-2020",
+    "cuisineType": "Portuguesa",
+    "rating": 4.6,
+    "openingHours": "Seg-Sex: 11:00 - 22:00, Sáb-Dom: 12:00 - 20:30",
+    "hasDelivery": true
+  },
+  {
+    "name": "Russian Retreat",
+    "address": "Avenida P, 3435",
+    "phone": "+55 11 2121-2222",
+    "cuisineType": "Russa",
+    "rating": 4.3,
+    "openingHours": "Seg-Sex: 12:00 - 20:30, Sáb-Dom: 11:30 - 21:00",
+    "hasDelivery": false
+  },
+  {
+    "name": "Moroccan Spices",
+    "address": "Rua Q, 3637",
+    "phone": "+55 11 2323-2424",
+    "cuisineType": "Marroquina",
+    "rating": 4.7,
+    "openingHours": "Seg-Sex: 11:30 - 21:00, Sáb-Dom: 12:00 - 22:00",
+    "hasDelivery": true
+  },
+  {
+    "name": "Argentinian Grill",
+    "address": "Avenida R, 3839",
+    "phone": "+55 11 2525-2626",
+    "cuisineType": "Argentina",
+    "rating": 4.4,
+    "openingHours": "Seg-Sex: 12:00 - 20:30, Sáb-Dom: 11:00 - 21:30",
+    "hasDelivery": false
+  },
+  {
+    "name": "Turkish Delights",
+    "address": "Rua S, 4041",
+    "phone": "+55 11 2727-2828",
+    "cuisineType": "Turca",
+    "rating": 4.9,
+    "openingHours": "Seg-Sex: 11:00 - 21:30, Sáb-Dom: 12:00 - 22:00",
+    "hasDelivery": true
+  },
+  {
+    "name": "Colombian Fusion",
+    "address": "Avenida T, 4243",
+    "phone": "+55 11 2929-3030",
+    "cuisineType": "Colombiana",
+    "rating": 4.1,
+    "openingHours": "Seg-Sex: 12:00 - 22:00, Sáb-Dom: 11:30 - 21:30",
+    "hasDelivery": false
+  }
+]

@@ -1,0 +1,3 @@
+ainda estou tentando fazer rodar os dois projetos apenas em um diretorio no replit, gravei um pequeno video no loom pra mostrar o projeto rodando por enquanto...
+
+https://www.loom.com/share/6aaa8f4be01340ee806afaa15f1ae31a
